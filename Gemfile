@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'image_processing', '~> 1.2'
 # Authentication 
 gem 'devise'
+# Some customs gem
 gem 'simple_form'
 gem 'faker'
 gem 'will_paginate'
